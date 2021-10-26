@@ -20,10 +20,10 @@ my first github repository
 
 👍 ✨ 🤘
 
-'''javascript
+```javascript
 function draw() {
   background(0);
   fill(255,5);
   ellipse(50,50,10,10);
 }
-'''
+```
